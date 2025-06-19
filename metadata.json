@@ -1,0 +1,6 @@
+{
+  "name": "MetaFlux",
+  "description": "A web application to calculate health metrics (BMI, BMR, TDEE) and generate personalized 7-day exercise and diet plans using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
